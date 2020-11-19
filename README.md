@@ -1,8 +1,10 @@
-### Hi there 👋
+### Welcome to my GitHub page! 👋
 
-- 🌱 I’m currently learning about Cloud Data Platforms on AWS.
-- 🔭 I’m currently working on Cloud Management and Governance platforms like ServiceNow.
-- 📫 How to reach me: https://www.linkedin.com/in/joshuaschuller/
+About me: 
+- 🔭 I’m a Cloud Architect.
+- 🌱 I’m currently learning about Cloud Data Platforms and Machine Learning.
+- 💬 Ask me about AWS and ServiceNow.
+- 📫 How to reach me ->  https://www.linkedin.com/in/joshuaschuller
 <!--
 **jschuller/jschuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
