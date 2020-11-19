@@ -1,7 +1,7 @@
-### Welcome to my GitHub page! 👋
+### Hi there!  I'm Josh! 👋
 
 About me: 
-- 🔭 I’m a Cloud Architect.
+- 🔭 I’m a Cloud Architect specialized in Management and Governance.
 - 🌱 I’m currently learning about Cloud Data Platforms and Machine Learning.
 - 💬 Ask me about AWS and ServiceNow.
 - 📫 How to reach me ->  https://www.linkedin.com/in/joshuaschuller
