@@ -1,4 +1,4 @@
-### Hi there!  I'm Josh! 👋
+### Hi there!   I'm Josh! 👋
 
 About me: 
 - 🔭 I’m a Cloud Architect.
