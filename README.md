@@ -1,7 +1,6 @@
 ###  Hi there!   Welcome to my GitHub page! 👋
 
 ---
-# <img src="https://github.com/jschuller/jschuller/blob/main/badges/josh.jpg" width="190" align="right">
 
 About me: 
 - 🔭 I’m a Cloud Architect.
