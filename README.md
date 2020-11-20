@@ -3,7 +3,7 @@
 ---
 
 About me: 
-- 🔭 I’m a Cloud Architect.
+- 🔭 I’m a Cloud Architect with expertise in ServiceNow.
 - 🌱 I’m currently learning about Cloud Data Platforms and Machine Learning.
 - 💬 Ask me about AWS and ServiceNow.
 - 📫 How to reach me ->  https://www.linkedin.com/in/joshuaschuller
