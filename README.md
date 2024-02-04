@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there, I'm Josh! 👋
 
-I'm Josh, a Cloud Architect specializing in Data Engineering, Machine Learning & DevOps.
+I'm a Cloud Architect specializing in Data Engineering, Machine Learning & Governance.
 
 <header image with avatar>
 
