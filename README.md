@@ -1,19 +1,38 @@
-###  Hi there!   Welcome to my GitHub page! 👋
+# Hi there 👋
 
----
+I'm Josh, a Cloud Architect specializing in Data Engineering, Machine Learning & DevOps.
 
-About me: 
-- 🔭 I’m a Cloud Architect with expertise in Data Engineering, Machine Learning & DevOps.
-- 🌱 I’m passionate about continuous learning and building capabilities & products to maximize outcomes.
-- 💬 Ask me about enabling teams to move fast and safely DevOps and ServiceNow.
-- 📫 How to reach me ->  https://www.linkedin.com/in/joshuaschuller
-    
-    
----
-[![AWS Certified Analytics Specialty](https://github.com/jschuller/jschuller/blob/main/badges/aws-certified-data-analytics-specialty-sig.png)](https://www.credly.com/badges/13b4a986-7c93-4c10-9012-710caee432b3/public_url)
-[![AWS Solution Architect Professional](https://github.com/jschuller/jschuller/blob/main/badges/aws-certified-solutions-architect-professional-sig.png)](https://www.credly.com/badges/b9ee30d8-ddb0-42ea-bc8b-4c4584642a23/public_url)
-[![AWS DevOps Engineer Professional](https://github.com/jschuller/jschuller/blob/main/badges/aws-certified-devops-engineer-professional-sig.png)](https://www.credly.com/badges/9abd12f8-5ce5-41eb-a2ab-6700a3294b13/public_url)
-[![AWS Certified Security Specialty](https://github.com/jschuller/jschuller/blob/main/badges/aws-certified-security-specialty-sig.png)](https://www.credly.com/badges/d70af578-046a-4ff4-9f9f-add6cd29a674/public_url)
-[![CompTIA Security+ ce Certification](https://github.com/jschuller/jschuller/blob/main/badges/comptia-security-ce-certification-sig.png)](https://www.credly.com/badges/c18d30a2-6db3-4ae0-afea-1573ca19a375/public_url)
+<header image with avatar>
 
----
+I'm passionate about continuous learning and building capabilities & products to maximize outcomes. 
+
+Ask me about enabling teams to move fast and safely with DevOps and ServiceNow.
+
+## 🧰 Technologies
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 🏆 Certifications
+
+![AWS Certified Solutions Architect Professional](https://github.com/<your_username>/badges/aws-certified-solutions-architect-professional-sig.png)
+
+![AWS Certified DevOps Engineer Professional](https://github.com/<your_username>/badges/aws-certified-devops-engineer-professional-sig.png) 
+
+![AWS Certified Security Specialty](https://github.com/<your_username>/badges/aws-certified-security-specialty-sig.png)
+
+## 📘 Latest Blog Posts 
+
+<!-- BLOG-POST-LIST:START -->
+- [CI/CD for Machine Learning Models with GitHub Actions](https://dev.to/awesomearticle) 
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...see more blog posts](https://dev.to/joshuaschuller)
+
+## 📫 Reach Me
+
+- LinkedIn - [Joshua Schuller](https://www.linkedin.com/in/joshuaschuller/)
+- Email - joshua.schuller@email.com
+
+<!--Divider Line-->
+
+<sub>Generated with ❤️ from <a href="https://github.com/kautukkundan" target="_blank">kautukkundan</a>'s <a href="https://github.com/kautukkundan/awesome-github-profile-readme-templates" target="_blank">README templates</a></sub>
