@@ -3,9 +3,9 @@
 ---
 
 About me: 
-- 🔭 I’m a Cloud Architect with expertise in ServiceNow.
-- 🌱 I’m currently learning about Cloud Data Platforms and Machine Learning.
-- 💬 Ask me about AWS and ServiceNow.
+- 🔭 I’m a Cloud Architect with expertise in Data Engineering, Machine Learning & DevOps.
+- 🌱 I’m passionate about continuous learning and building capabilities & products to maximize outcomes.
+- 💬 Ask me about enabling teams to move fast and safely DevOps and ServiceNow.
 - 📫 How to reach me ->  https://www.linkedin.com/in/joshuaschuller
     
     
