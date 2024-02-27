@@ -4,9 +4,7 @@ I'm a Cloud Architect specializing in Data Engineering, Machine Learning & Gover
 
 <header image with avatar>
 
-I'm passionate about continuous learning and building capabilities & products to maximize outcomes. 
-
-Ask me about enabling teams to move fast and safely with DevOps and ServiceNow.
+I'm passionate about continuous learning and building capabilities & products to maximize outcomes. Ask me about enabling teams to move fast and safely with DevOps and ServiceNow.
 
 ## 🧰 Technologies
 
@@ -14,11 +12,6 @@ Ask me about enabling teams to move fast and safely with DevOps and ServiceNow.
 
 ## 🏆 Certifications
 
-![AWS Certified Solutions Architect Professional](https://github.com/<your_username>/badges/aws-certified-solutions-architect-professional-sig.png)
-
-![AWS Certified DevOps Engineer Professional](https://github.com/<your_username>/badges/aws-certified-devops-engineer-professional-sig.png) 
-
-![AWS Certified Security Specialty](https://github.com/<your_username>/badges/aws-certified-security-specialty-sig.png)
 
 ## 📘 Latest Blog Posts 
 
