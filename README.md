@@ -1,10 +1,10 @@
 # Hi there, I'm Josh! 👋
 
-I'm a Cloud Architect specializing in Data Engineering, Machine Learning & Governance.
+I'm a Cloud Architect specialized in Data Engineering, Machine Learning & Governance.
 
 <header image with avatar>
 
-I'm passionate about continuous learning and building capabilities & products to maximize outcomes. Ask me about enabling teams to move fast and safely with DevOps and ServiceNow.
+I'm passionate about building capabilities, products and teams to maximize outcomes. Ask me about enabling teams to move fast and safely with DevOps and ServiceNow.
 
 ## 🧰 Technologies
 
