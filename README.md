@@ -22,8 +22,3 @@ I'm passionate about building capabilities, products and teams to maximize outco
 ## 📫 Reach Me
 
 - LinkedIn - [Joshua Schuller](https://www.linkedin.com/in/joshuaschuller/)
-- Email - joshua.schuller@email.com
-
-<!--Divider Line-->
-
-<sub>Generated with ❤️ from <a href="https://github.com/kautukkundan" target="_blank">kautukkundan</a>'s <a href="https://github.com/kautukkundan/awesome-github-profile-readme-templates" target="_blank">README templates</a></sub>
