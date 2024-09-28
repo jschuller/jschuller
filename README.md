@@ -4,7 +4,9 @@ I'm a Cloud Architect specialized in Data, Machine Learning & Governance.
 
 <header image with avatar>
 
-I'm passionate about building capabilities, products and teams to maximize outcomes. Ask me about enabling teams to move fast and safely.
+I'm passionate about building capabilities, products and teams to maximize outcomes. 
+
+Ask me about enabling teams to move fast and safely.
 
 ## 🧰 Technologies
 
