@@ -1,6 +1,6 @@
 # Hi there, I'm Josh! 👋
 
-> Transforming businesses with advancements in AI and Machine Learning
+> Transforming business with advancements in AI and Machine Learning
 
 ## About Me
 
