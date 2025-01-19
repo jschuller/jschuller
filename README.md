@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm an experienced Cloud Architect and Platform Product Owner focused on enabling business transformation with emerging processes and technologies.  My expertise includes the enablement of teams to move quickly and safely while delivering measurable value with particular focus on AI/ML, DevOps and Data Governance solutions.
+I'm an experienced Cloud Architect and Platform Product Owner focused on enabling business transformation with emerging processes and technologies.  My expertise includes enabling teams to move quickly and safely while delivering measurable value with particular focus on AI/ML, DevOps and Data Governance solutions.
 
 ## Current Interests
 
