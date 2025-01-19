@@ -1,12 +1,29 @@
 # Hi there, I'm Josh! 👋
 
-I'm a Cloud Architect specialized in Data, Machine Learning & Governance.
+> Transforming businesses through strategic data science and AI innovation
 
-<header image with avatar>
+## About Me
 
-I'm passionate about building capabilities, products and teams to maximize outcomes. 
+I'm an experienced Cloud Architect and Platform Product Owner focused on driving business transformation through emerging technologies. My expertise centers on helping organizations realize measurable value from their data and AI investments, with proven success in enterprise platform evolution.
 
-Ask me about enabling teams to move fast and safely.
+## Strategic Focus Areas & Innovation
 
+- **Enterprise Platform Strategy**: Architecting unified governance solutions and intelligent workflows on ServiceNow and cloud-native platforms
+- **AI/ML Excellence**: Implementing enterprise-grade machine learning solutions using AWS, Azure, Databricks and cloud technologies
+- **Platform Product Leadership**: Driving innovation through strategic product ownership and development excellence
+- **Data-Driven Transformation**: Building robust data foundations with comprehensive governance frameworks
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## Current Interests
+
+- Architecting enterprise-grade GenAI solutions
+- Building scalable DevOps/MLOps frameworks and intelligent workflows
+- Creating unified data platforms with modern governance
+- Enabling fast, safe delivery of measurable business outcomes
+
+## Let's Connect
+
+I'm always interested in discussing how emerging technologies can drive business transformation. Feel free to reach out if you'd like to explore platform modernization, AI implementation, or strategic product development.
+
+---
+
+💡 Ask me about enabling teams to move fast and safely!
