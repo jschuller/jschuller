@@ -1,10 +1,8 @@
 # Hi there, I'm Josh! 👋
 
-> Transforming business with advancements in AI and Machine Learning
-
 ## About Me
 
-I'm an experienced Cloud Architect and Platform Product Owner focused on AI/ML, DevOps and Data Governance solutions that enable teams to move quickly and safely.
+I'm an experienced Cloud Architect and Platform Product Owner who helps teams move quickly and safely with AI/ML, DevOps and Data Governance solutions.
 
 ## Current Interests
 
