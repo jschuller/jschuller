@@ -13,8 +13,4 @@ I'm an experienced Cloud Architect and Platform Product Owner who helps teams mo
 
 ## Let's Connect
 
-Let me know if you'd like to enable emerging technologies to safely deliver your business transformation!
-
----
-
-💡 Ask me about enabling teams to move fast and safely!
+💡 Let me know if you'd like to enable emerging technologies to safely deliver your business transformation!
