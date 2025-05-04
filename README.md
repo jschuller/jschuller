@@ -8,12 +8,12 @@ I'm an experienced Cloud Architect and Platform Product Owner who helps teams mo
 
 - Architecting enterprise-grade GenAI solutions
 - Building scalable DevOps style frameworks and workflows
-- Creating unified data platforms with modern data governance
-- Enabling fast, safe delivery of measurable business outcomes
+- Creating unified data lakehouse platforms with modern data governance
+- Driving innovation with autonomous digital collaborators
 
 ## Let's Connect
 
-I'm always interested in discussing how emerging technologies can drive business transformation. Feel free to reach out if you'd like to explore AI platform modernization, governance or strategic product development.
+Let me know if you'd like to enable emerging technologies to safely deliver your business transformation!
 
 ---
 
