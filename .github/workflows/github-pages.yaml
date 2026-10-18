@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+# The deploy pushes the built site to gh-pages with GITHUB_TOKEN; the repository default becomes read-only (homelab-governance SC-11, 2026-10-18)
+permissions:
+  contents: write
+
 jobs:
   github-pages:
     runs-on: ubuntu-latest
