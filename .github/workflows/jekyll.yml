@@ -29,6 +29,6 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-      - uses: helaili/jekyll-action@c1527523361ec3ecc54b2371ddef44826e28c0f5 # v2.5.0
+      - uses: helaili/jekyll-action@c1527523361ec3ecc54b2371ddef44826e28c0f5 # 2.5.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
