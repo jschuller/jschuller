@@ -5,17 +5,30 @@ on:
     branches:
       - main
 
+# Supply-chain baseline (2026-10-20): no token scope at the top; the job asks for contents: write because the deploy pushes
+# the built site to gh-pages with GITHUB_TOKEN and the repository default is read-only (homelab-governance SC-11, 2026-10-18).
+# Every action is pinned to a full commit SHA with its exact tag as a comment; the checkout keeps no token (jekyll-action
+# pushes with the token it is given, not with .git/config).
+# NOTE: this workflow cannot succeed as it stands. actions/cache v2 is refused by GitHub (cache v1/v2 were retired in 2025),
+# and the repository has no Gemfile or _config.yml for jekyll-action to build; the site (docs/) is deployed by
+# jekyll-gh-pages.yml.
+permissions: {}
+
 jobs:
   github-pages:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # jekyll-action pushes the built site to gh-pages
     steps:
-      - uses: actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5 # v2
-      - uses: actions/cache@8492260343ad570701412c2f464a5877dc76bace # v2
+      - uses: actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5 # v2.7.0
+        with:
+          persist-credentials: false
+      - uses: actions/cache@2b250bc32ad02700b996b496c14ac8c2840a2991 # v2.1.8
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-      - uses: helaili/jekyll-action@c1527523361ec3ecc54b2371ddef44826e28c0f5 # v2
+      - uses: helaili/jekyll-action@c1527523361ec3ecc54b2371ddef44826e28c0f5 # 2.5.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}

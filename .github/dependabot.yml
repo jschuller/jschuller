@@ -1,0 +1,8 @@
+# Dependabot version updates (supply-chain baseline, 2026-10-20). The only ecosystem here is github-actions (the site
+# is static HTML in docs/, no Gemfile); it keeps the SHA pins and their "# vX.Y.Z" comments current after a 7-day cooldown.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule: { interval: weekly }
+    cooldown: { default-days: 7 }
